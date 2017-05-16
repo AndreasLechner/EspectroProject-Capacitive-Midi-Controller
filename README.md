@@ -1,4 +1,4 @@
-# EspectroProject-Capacitive-midi-controller
+# EspectroProject-Capacitive-Midi-Controller
 
 Example code for a Midi Controller with capasitive touch sensing.
 This project using Hardware Espectro Core + Espectro Base and using rtpMIDI as a virtual Midi.
